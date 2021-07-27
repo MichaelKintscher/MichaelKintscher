@@ -1,5 +1,30 @@
-Welcome.
+Welcome!
 
+My name is Michael, and my pronouns are they/them. Enjoy this first attempt at a README while I teach myself markdown!
+
+<hr />
+
+Interests
+ - Graphics
+ - Physically Based Rendering
+ - Data Visualization
+ - UX Design
+ - Mixed Reality
+ - Modeling and Simulation
+ - Game Engine Architecture
+ - Game Design
+ - Building Information Modeling (BIM)
+ - Computer Aided Draftin and Design (CADD)
+ - Computer Supported Cooperative Work (CSCW)
+
+<hr />
+
+Things I am learning:
+ - Hololens
+ - Unity
+ - Python
+ - Angular
+ - GitHub
 
 <hr />
 
@@ -10,7 +35,7 @@ Contact Me!
  - Stack Overflow: [Michael Kintscher](https://stackoverflow.com/users/8442938/michael-kintscher-they-them?tab=profile)
  
 Other Channels:
- <!--- - Youtube: [Life with Them](https://www.youtube.com/channel/UC7NAR2B52g0mI6PddSJKksw) --->
+ <!--- - Youtube: [Life with Them](https://www.youtube.com/channel/UC7NAR2B52g0mI6PddSJKksw) This isn't quite ready to launch yet... ;) --->
  - Youtube: [Cooking with Them](https://www.youtube.com/channel/UC4gfAPs8PsNyHnPX1cMl-WQ)
  - Blog: [Life with Them](https://michaelkintscher.website/)
  - Medium: [Michael Kintscher](https://michael-kintscher.medium.com/)
