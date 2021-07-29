@@ -2,9 +2,7 @@ Welcome!
 
 My name is Michael, and my pronouns are they/them. Enjoy this first attempt at a README while I teach myself markdown!
 
-<hr />
-
-Interests
+## Interests
  - Graphics
  - Physically Based Rendering
  - Data Visualization
@@ -17,18 +15,16 @@ Interests
  - Computer Aided Draftin and Design (CADD)
  - Computer Supported Cooperative Work (CSCW)
 
-<hr />
 
-Things I am learning:
+## Things I am learning
  - Hololens
  - Unity
  - Python
  - Angular
  - GitHub
 
-<hr />
 
-Contact Me!
+## Contact Me!
  - Website: https://kintscher.dev/
  - Email: [michael@kintscher.dev](mailto:michael@kintscher.dev)
  - LinkedIn: [Michael Kintscher](https://www.linkedin.com/in/michaelkintscher/)
